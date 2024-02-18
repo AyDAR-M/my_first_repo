@@ -15,3 +15,5 @@ git push -u origin main
 #### **git push -u origin main**- Выталнки все изменения на подключенный сервер *https://github.com/AyDAR-M/my_first_repo.git* ветки **main**
 
 ## Добавил текст через веб браузер
+
+Добавим текст локально
